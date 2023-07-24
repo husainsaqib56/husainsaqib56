@@ -8,9 +8,9 @@
   </em>  
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=husainsaqib56)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=husainsaqib56)](https://github.com/anuraghazra/github-readme-stats)
 
-![Saqib's github stats](https://github-readme-stats.vercel.app/api?username=husainsaqib56&show_icons=true&hide_border=true)
+![Saqib's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=husainsaqib56&show_icons=true&hide_border=true)
 
 <br>
 
