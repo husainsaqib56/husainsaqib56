@@ -1,5 +1,5 @@
 # 💫 About Me:
-Saqib Husain is a highly trained and seasoned software engineer with 4.11 years of IT industry experience. He has a Masters degree in Computer Applications from a reputable university and is skilled in Angular, TypeScript, JavaScript, HTML, CSS3, and SASS. He worked as a systems engineer at Tata Consultancy Services, one of the world's top IT firms, and got various accolades and recognition for his contributions to the organisation. He enjoys singing and travelling in his spare time.
+Saqib Husain is a highly trained and seasoned software engineer with 5 years of IT industry experience. He has a master's degree in Computer Applications from a reputable university and is skilled in Angular, TypeScript, JavaScript, HTML, CSS3, and SASS. He worked as a systems engineer at Tata Consultancy Services, one of the world's top IT firms, and got various accolades and recognition for his contributions to the organization. He enjoys singing and traveling in his spare time.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/husainsaqib56) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jerry_4_you) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/husainsaqib56) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/husainsaqib56) 
@@ -18,7 +18,7 @@ Saqib Husain is a highly trained and seasoned software engineer with 4.11 years 
 ![](https://github-contributor-stats.vercel.app/api?username=husainsaqib56&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<img src='https://randommeme-five.vercel.app/' style="height: 400px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=husainsaqib56&icon=0&color=0)](https://visitcount.itsvg.in)
