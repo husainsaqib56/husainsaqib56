@@ -17,9 +17,6 @@ Saqib Husain is a highly skilled and experienced software engineer with 5 years 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=husainsaqib56&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-![Random Dev Meme](https://source.unsplash.com/collection/8961363/800x400) 
-
 ---
 [![](https://visitcount.itsvg.in/api?id=husainsaqib56&icon=0&color=0)](https://visitcount.itsvg.in)
 
