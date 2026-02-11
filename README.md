@@ -1,23 +1,77 @@
-# 💫 About Me:
-Saqib Husain is a highly skilled and experienced software engineer with 5 years of experience in the IT industry. He holds a master's degree in Computer Applications from a reputable university and is proficient in Angular, TypeScript, JavaScript, HTML, CSS3, and SASS. Currently, he is working as an IT Analyst at Tata Consultancy Services, one of the world's leading IT firms, where he has received various accolades and recognition for his contributions. In his spare time, he enjoys singing and traveling.
+<h1 align="center">Hi 👋, I'm Saqib Husain</h1>
+<h3 align="center">Senior Frontend Developer | Angular Expert | IT Analyst @ TCS</h3>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/husainsaqib56) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jerry_4_you) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/husainsaqib56) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/husainsaqib56) 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&size=22&center=true&vCenter=true&width=600&lines=Angular+Specialist;6%2B+Years+Frontend+Experience;Building+Scalable+Web+Applications;Clean+Code+Advocate;UI%2FUX+Focused+Developer" />
+</p>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=husainsaqib56&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=husainsaqib56&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=husainsaqib56&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=husainsaqib56&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=husainsaqib56&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=husainsaqib56&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me  
+
+💼 Senior Frontend Developer with **6+ years of experience** in enterprise applications  
+🏢 Currently working as **IT Analyst at Tata Consultancy Services (TCS)**  
+⚡ Passionate about **Angular architecture, performance optimization & scalable UI systems**  
+🎯 Focused on writing **clean, maintainable & reusable code**  
+🎵 Fun fact: I love singing & traveling  
+
+---
+
+## 🧠 Expertise  
+
+- 🔹 Angular (Advanced)  
+- 🔹 TypeScript & JavaScript  
+- 🔹 Component Architecture & State Management  
+- 🔹 REST API Integration  
+- 🔹 Performance Optimization  
+- 🔹 UI/UX Implementation  
+
+---
+
+## 🛠 Tech Stack  
+
+### 💻 Frontend  
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,ts,js,react,html,css,sass" />
+</p>
+
+### ⚙️ Tools & Platforms  
+<p>
+  <img src="https://skillicons.dev/icons?i=git,firebase,postman,figma" />
+</p>
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=husainsaqib56&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+---
+
+## 🌐 Connect With Me  
+
+<p align="center">
+  <a href="https://linkedin.com/in/husainsaqib56"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://instagram.com/jerry_4_you"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://facebook.com/husainsaqib56"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://quora.com/profile/husainsaqib56"><img src="https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white"/></a>
+</p>
+
+---
+
+## 💡 Developer Mindset  
+
+> “Clean code is not written by following rules.  
+> It’s written by developers who truly care about scalability and maintainability.”
+
+---
+
+<p align="center">
+  ⚡ Always open to collaboration & exciting frontend challenges!
+</p>
